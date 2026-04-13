@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ManageDodoProducts/.vs/ManageDodoProducts
+/ManageDodoProducts/ManageDodoProducts/bin/Debug/net9.0
+/ManageDodoProducts/ManageDodoProducts/obj
+/ManageDodoProducts/.vs/CopilotSnapshots/13A4C2161251FC4D8CDD73B4FDB0D59F
+/ManageDodoProducts/.vs/ProjectEvaluation
